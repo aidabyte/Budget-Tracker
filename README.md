@@ -15,7 +15,7 @@
 Deployed App:https://shrouded-brook-89856.herokuapp.com/
 
 ## Screenshot
-![Example screenshot](Fitness.gif)
+![Example screenshot](budgett.png)
 
 ## Setup
 
